@@ -2,9 +2,9 @@
 
 
 
-**Time:** 2025-11-06T14:13:11.360776
+**Time:** 2025-11-06T14:16:59.522162
 
-**Symbol:** TSLA
+**Symbol:** ASST
 
 **Action:** buy
 
@@ -14,11 +14,9 @@
 
 **Allow Short:** False
 
-**Fractional Requested:** True
+**Fractional Requested:** False
 
-**Qty:** 0.5
-
-**Notional:** $231.1
+**Qty:** 3.0
 
 **Status:** failed
 
