@@ -213,5 +213,19 @@
     "orderSize": 1.0,
     "orderId": "3f75e256-f033-4aeb-9efc-7b81653aed82",
     "status": "success"
+  },
+  {
+    "timestamp": "2025-11-06T14:13:11.360776",
+    "symbol": "TSLA",
+    "action": "buy",
+    "qty": 0.5,
+    "notional": 231.1,
+    "limitPrice": null,
+    "orderType": "market",
+    "timeInForce": "day",
+    "allowShort": false,
+    "fractionalRequested": true,
+    "status": "failed",
+    "error": "insufficient buying power"
   }
 ]
