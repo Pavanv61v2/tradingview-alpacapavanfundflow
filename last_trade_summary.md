@@ -2,7 +2,7 @@
 
 
 
-**Time:** 2025-11-06T14:16:59.522162
+**Time:** 2025-11-07T09:40:16.206309
 
 **Symbol:** ASST
 
@@ -16,10 +16,8 @@
 
 **Fractional Requested:** False
 
-**Qty:** 3.0
+**Qty:** 3
 
-**Status:** failed
+**Order ID:** 5f54a718-e5a1-428c-a835-21598c6c4927
 
-
-
-**Error:** `insufficient buying power`
+**Status:** success
