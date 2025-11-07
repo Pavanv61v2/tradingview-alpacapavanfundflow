@@ -255,5 +255,19 @@
     "timeInForce": "day",
     "status": "success",
     "orderId": "5f54a718-e5a1-428c-a835-21598c6c4927"
+  },
+  {
+    "timestamp": "2025-11-07T21:01:24.952720",
+    "symbol": "PGY",
+    "action": "buy",
+    "qty": 40,
+    "notional": null,
+    "limitPrice": 24.44,
+    "orderType": "limit",
+    "allowShort": false,
+    "fractionalRequested": false,
+    "timeInForce": "day",
+    "status": "success",
+    "orderId": "8e79a937-623c-49a0-b626-a6364d3fabae"
   }
 ]

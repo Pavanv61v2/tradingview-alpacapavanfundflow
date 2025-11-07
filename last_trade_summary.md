@@ -2,13 +2,13 @@
 
 
 
-**Time:** 2025-11-07T09:40:16.206309
+**Time:** 2025-11-07T21:01:24.952720
 
-**Symbol:** ASST
+**Symbol:** PGY
 
 **Action:** buy
 
-**Order Type:** market
+**Order Type:** limit
 
 **Time in Force:** day
 
@@ -16,8 +16,10 @@
 
 **Fractional Requested:** False
 
-**Qty:** 3
+**Qty:** 40
 
-**Order ID:** 5f54a718-e5a1-428c-a835-21598c6c4927
+**Limit Price:** 24.44
+
+**Order ID:** 8e79a937-623c-49a0-b626-a6364d3fabae
 
 **Status:** success
