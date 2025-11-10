@@ -2,26 +2,24 @@
 
 
 
-**Time:** 2025-11-08T03:56:57.127347
+**Time:** 2025-11-10T00:00:32.845766
 
-**Symbol:** ASST
+**Symbol:** BTC/USD
 
 **Action:** buy
 
 **Order Type:** limit
 
-**Time in Force:** day
-
-**Extended Hours:** True
+**Time in Force:** gtc
 
 **Allow Short:** False
 
 **Fractional Requested:** False
 
-**Qty:** 3
+**Qty:** 0.00955
 
-**Limit Price:** 1.4
+**Limit Price:** 104711.6
 
-**Order ID:** 829aad0b-c516-4221-a177-f06893a60b2a
+**Order ID:** 2a80c5d0-1ee0-4828-9aee-6f2e52847525
 
 **Status:** success

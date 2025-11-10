@@ -284,5 +284,20 @@
     "extendedHours": true,
     "status": "success",
     "orderId": "829aad0b-c516-4221-a177-f06893a60b2a"
+  },
+  {
+    "timestamp": "2025-11-10T00:00:32.845766",
+    "symbol": "BTC/USD",
+    "action": "buy",
+    "qty": 0.00955,
+    "notional": null,
+    "limitPrice": 104711.6,
+    "orderType": "limit",
+    "allowShort": false,
+    "fractionalRequested": false,
+    "timeInForce": "gtc",
+    "extendedHours": null,
+    "status": "success",
+    "orderId": "2a80c5d0-1ee0-4828-9aee-6f2e52847525"
   }
 ]
