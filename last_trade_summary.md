@@ -2,24 +2,26 @@
 
 
 
-**Time:** 2025-11-10T00:00:32.845766
+**Time:** 2025-11-10T21:01:22.902096
 
-**Symbol:** BTC/USD
+**Symbol:** RBRK
 
 **Action:** buy
 
 **Order Type:** limit
 
-**Time in Force:** gtc
+**Time in Force:** day
+
+**Extended Hours:** True
 
 **Allow Short:** False
 
 **Fractional Requested:** False
 
-**Qty:** 0.00955
+**Qty:** 13
 
-**Limit Price:** 104711.6
+**Limit Price:** 76.06
 
-**Order ID:** 2a80c5d0-1ee0-4828-9aee-6f2e52847525
+**Order ID:** 7d725a6a-1d40-44ba-84c6-af2700671c38
 
 **Status:** success
