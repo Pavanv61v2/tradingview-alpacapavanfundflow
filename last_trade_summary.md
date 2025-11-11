@@ -2,9 +2,9 @@
 
 
 
-**Time:** 2025-11-10T21:01:22.902096
+**Time:** 2025-11-11T21:01:23.792364
 
-**Symbol:** RBRK
+**Symbol:** NVO
 
 **Action:** buy
 
@@ -18,10 +18,10 @@
 
 **Fractional Requested:** False
 
-**Qty:** 13
+**Qty:** 20
 
-**Limit Price:** 76.06
+**Limit Price:** 49.15
 
-**Order ID:** 7d725a6a-1d40-44ba-84c6-af2700671c38
+**Order ID:** 683f63c3-c748-47b9-b5cb-533dae137415
 
 **Status:** success
