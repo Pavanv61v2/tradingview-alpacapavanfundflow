@@ -2,9 +2,9 @@
 
 
 
-**Time:** 2025-11-11T21:01:23.792364
+**Time:** 2025-11-12T21:01:26.052450
 
-**Symbol:** NVO
+**Symbol:** BULL
 
 **Action:** buy
 
@@ -18,10 +18,10 @@
 
 **Fractional Requested:** False
 
-**Qty:** 20
+**Qty:** 102
 
-**Limit Price:** 49.15
+**Limit Price:** 9.78
 
-**Order ID:** 683f63c3-c748-47b9-b5cb-533dae137415
+**Order ID:** b0b318dc-e638-4b59-a322-71e331f9b0ed
 
 **Status:** success

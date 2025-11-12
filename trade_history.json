@@ -329,5 +329,20 @@
     "extendedHours": true,
     "status": "success",
     "orderId": "683f63c3-c748-47b9-b5cb-533dae137415"
+  },
+  {
+    "timestamp": "2025-11-12T21:01:26.052450",
+    "symbol": "BULL",
+    "action": "buy",
+    "qty": 102,
+    "notional": null,
+    "limitPrice": 9.78,
+    "orderType": "limit",
+    "allowShort": false,
+    "fractionalRequested": false,
+    "timeInForce": "day",
+    "extendedHours": true,
+    "status": "success",
+    "orderId": "b0b318dc-e638-4b59-a322-71e331f9b0ed"
   }
 ]
