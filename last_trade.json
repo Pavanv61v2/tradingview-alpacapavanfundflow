@@ -1,15 +1,15 @@
 {
-  "timestamp": "2025-11-12T21:01:26.052450",
-  "symbol": "BULL",
+  "timestamp": "2025-11-14T21:01:30.996722",
+  "symbol": "ONDS",
   "action": "buy",
-  "qty": 102,
+  "qty": 139,
   "notional": null,
-  "limitPrice": 9.78,
+  "limitPrice": 7.19,
   "orderType": "limit",
   "allowShort": false,
   "fractionalRequested": false,
   "timeInForce": "day",
   "extendedHours": true,
   "status": "success",
-  "orderId": "b0b318dc-e638-4b59-a322-71e331f9b0ed"
+  "orderId": "ee5a9a76-a90a-4622-a56e-a386152a6179"
 }

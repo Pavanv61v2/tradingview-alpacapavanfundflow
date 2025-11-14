@@ -2,9 +2,9 @@
 
 
 
-**Time:** 2025-11-12T21:01:26.052450
+**Time:** 2025-11-14T21:01:30.996722
 
-**Symbol:** BULL
+**Symbol:** ONDS
 
 **Action:** buy
 
@@ -18,10 +18,10 @@
 
 **Fractional Requested:** False
 
-**Qty:** 102
+**Qty:** 139
 
-**Limit Price:** 9.78
+**Limit Price:** 7.19
 
-**Order ID:** b0b318dc-e638-4b59-a322-71e331f9b0ed
+**Order ID:** ee5a9a76-a90a-4622-a56e-a386152a6179
 
 **Status:** success
