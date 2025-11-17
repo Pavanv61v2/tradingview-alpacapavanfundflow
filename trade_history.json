@@ -359,5 +359,20 @@
     "extendedHours": true,
     "status": "success",
     "orderId": "ee5a9a76-a90a-4622-a56e-a386152a6179"
+  },
+  {
+    "timestamp": "2025-11-17T21:01:27.886236",
+    "symbol": "STZ",
+    "action": "buy",
+    "qty": 7,
+    "notional": null,
+    "limitPrice": 130.96,
+    "orderType": "limit",
+    "allowShort": false,
+    "fractionalRequested": false,
+    "timeInForce": "day",
+    "extendedHours": true,
+    "status": "success",
+    "orderId": "16859db8-cc7b-4d11-9e79-24337eae7d44"
   }
 ]

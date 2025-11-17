@@ -2,9 +2,9 @@
 
 
 
-**Time:** 2025-11-14T21:01:30.996722
+**Time:** 2025-11-17T21:01:27.886236
 
-**Symbol:** ONDS
+**Symbol:** STZ
 
 **Action:** buy
 
@@ -18,10 +18,10 @@
 
 **Fractional Requested:** False
 
-**Qty:** 139
+**Qty:** 7
 
-**Limit Price:** 7.19
+**Limit Price:** 130.96
 
-**Order ID:** ee5a9a76-a90a-4622-a56e-a386152a6179
+**Order ID:** 16859db8-cc7b-4d11-9e79-24337eae7d44
 
 **Status:** success
