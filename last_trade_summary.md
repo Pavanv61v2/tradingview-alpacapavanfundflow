@@ -2,9 +2,9 @@
 
 
 
-**Time:** 2025-11-17T21:01:27.886236
+**Time:** 2025-11-21T21:01:33.257558
 
-**Symbol:** STZ
+**Symbol:** BULL
 
 **Action:** buy
 
@@ -18,10 +18,10 @@
 
 **Fractional Requested:** False
 
-**Qty:** 7
+**Qty:** 120
 
-**Limit Price:** 130.96
+**Limit Price:** 8.3
 
-**Order ID:** 16859db8-cc7b-4d11-9e79-24337eae7d44
+**Order ID:** 1c5c9e1f-3476-4ed0-9a7e-5f382efef348
 
 **Status:** success

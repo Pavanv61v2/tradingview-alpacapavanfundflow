@@ -1,15 +1,15 @@
 {
-  "timestamp": "2025-11-17T21:01:27.886236",
-  "symbol": "STZ",
+  "timestamp": "2025-11-21T21:01:33.257558",
+  "symbol": "BULL",
   "action": "buy",
-  "qty": 7,
+  "qty": 120,
   "notional": null,
-  "limitPrice": 130.96,
+  "limitPrice": 8.3,
   "orderType": "limit",
   "allowShort": false,
   "fractionalRequested": false,
   "timeInForce": "day",
   "extendedHours": true,
   "status": "success",
-  "orderId": "16859db8-cc7b-4d11-9e79-24337eae7d44"
+  "orderId": "1c5c9e1f-3476-4ed0-9a7e-5f382efef348"
 }
