@@ -2,9 +2,9 @@
 
 
 
-**Time:** 2025-11-21T21:01:33.257558
+**Time:** 2025-11-24T21:01:21.215953
 
-**Symbol:** BULL
+**Symbol:** HIMS
 
 **Action:** buy
 
@@ -18,10 +18,10 @@
 
 **Fractional Requested:** False
 
-**Qty:** 120
+**Qty:** 26
 
-**Limit Price:** 8.3
+**Limit Price:** 37.82
 
-**Order ID:** 1c5c9e1f-3476-4ed0-9a7e-5f382efef348
+**Order ID:** ddcaa003-7cb5-4741-9ca8-dfaa2fda61f1
 
 **Status:** success

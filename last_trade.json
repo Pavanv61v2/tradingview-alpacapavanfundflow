@@ -1,15 +1,15 @@
 {
-  "timestamp": "2025-11-21T21:01:33.257558",
-  "symbol": "BULL",
+  "timestamp": "2025-11-24T21:01:21.215953",
+  "symbol": "HIMS",
   "action": "buy",
-  "qty": 120,
+  "qty": 26,
   "notional": null,
-  "limitPrice": 8.3,
+  "limitPrice": 37.82,
   "orderType": "limit",
   "allowShort": false,
   "fractionalRequested": false,
   "timeInForce": "day",
   "extendedHours": true,
   "status": "success",
-  "orderId": "1c5c9e1f-3476-4ed0-9a7e-5f382efef348"
+  "orderId": "ddcaa003-7cb5-4741-9ca8-dfaa2fda61f1"
 }
