@@ -404,5 +404,20 @@
     "extendedHours": true,
     "status": "success",
     "orderId": "ddcaa003-7cb5-4741-9ca8-dfaa2fda61f1"
+  },
+  {
+    "timestamp": "2025-11-24T21:16:20.524874",
+    "symbol": "NPPTF",
+    "action": "buy",
+    "qty": 2247.0,
+    "notional": null,
+    "limitPrice": 0.4449,
+    "orderType": "limit",
+    "timeInForce": "day",
+    "extendedHours": true,
+    "allowShort": false,
+    "fractionalRequested": false,
+    "status": "failed",
+    "error": "asset NPPTF is not active"
   }
 ]

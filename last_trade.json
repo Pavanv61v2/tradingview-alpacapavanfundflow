@@ -1,15 +1,15 @@
 {
-  "timestamp": "2025-11-24T21:01:21.215953",
-  "symbol": "HIMS",
+  "timestamp": "2025-11-24T21:16:20.524874",
+  "symbol": "NPPTF",
   "action": "buy",
-  "qty": 26,
+  "qty": 2247.0,
   "notional": null,
-  "limitPrice": 37.82,
+  "limitPrice": 0.4449,
   "orderType": "limit",
-  "allowShort": false,
-  "fractionalRequested": false,
   "timeInForce": "day",
   "extendedHours": true,
-  "status": "success",
-  "orderId": "ddcaa003-7cb5-4741-9ca8-dfaa2fda61f1"
+  "allowShort": false,
+  "fractionalRequested": false,
+  "status": "failed",
+  "error": "asset NPPTF is not active"
 }

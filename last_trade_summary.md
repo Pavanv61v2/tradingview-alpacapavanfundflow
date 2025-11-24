@@ -2,9 +2,9 @@
 
 
 
-**Time:** 2025-11-24T21:01:21.215953
+**Time:** 2025-11-24T21:16:20.524874
 
-**Symbol:** HIMS
+**Symbol:** NPPTF
 
 **Action:** buy
 
@@ -18,10 +18,12 @@
 
 **Fractional Requested:** False
 
-**Qty:** 26
+**Qty:** 2247.0
 
-**Limit Price:** 37.82
+**Limit Price:** 0.4449
 
-**Order ID:** ddcaa003-7cb5-4741-9ca8-dfaa2fda61f1
+**Status:** failed
 
-**Status:** success
+
+
+**Error:** `asset NPPTF is not active`
