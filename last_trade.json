@@ -1,15 +1,15 @@
 {
-  "timestamp": "2025-11-24T21:16:20.524874",
-  "symbol": "NPPTF",
+  "timestamp": "2025-11-25T00:00:30.739594",
+  "symbol": "BTC/USD",
   "action": "buy",
-  "qty": 2247.0,
+  "qty": 0.011327,
   "notional": null,
-  "limitPrice": 0.4449,
+  "limitPrice": 88282.84,
   "orderType": "limit",
-  "timeInForce": "day",
-  "extendedHours": true,
   "allowShort": false,
   "fractionalRequested": false,
-  "status": "failed",
-  "error": "asset NPPTF is not active"
+  "timeInForce": "gtc",
+  "extendedHours": null,
+  "status": "success",
+  "orderId": "2c8b18f6-0bec-42e3-b8d1-69dca1d8aa5a"
 }
