@@ -2,24 +2,26 @@
 
 
 
-**Time:** 2025-11-25T00:00:30.739594
+**Time:** 2025-11-25T21:01:21.177094
 
-**Symbol:** BTC/USD
+**Symbol:** CP
 
 **Action:** buy
 
 **Order Type:** limit
 
-**Time in Force:** gtc
+**Time in Force:** day
+
+**Extended Hours:** True
 
 **Allow Short:** False
 
 **Fractional Requested:** False
 
-**Qty:** 0.011327
+**Qty:** 13
 
-**Limit Price:** 88282.84
+**Limit Price:** 71.56
 
-**Order ID:** 2c8b18f6-0bec-42e3-b8d1-69dca1d8aa5a
+**Order ID:** 38396e24-824d-4af0-9b35-adb2c6e71967
 
 **Status:** success

@@ -434,5 +434,20 @@
     "extendedHours": null,
     "status": "success",
     "orderId": "2c8b18f6-0bec-42e3-b8d1-69dca1d8aa5a"
+  },
+  {
+    "timestamp": "2025-11-25T21:01:21.177094",
+    "symbol": "CP",
+    "action": "buy",
+    "qty": 13,
+    "notional": null,
+    "limitPrice": 71.56,
+    "orderType": "limit",
+    "allowShort": false,
+    "fractionalRequested": false,
+    "timeInForce": "day",
+    "extendedHours": true,
+    "status": "success",
+    "orderId": "38396e24-824d-4af0-9b35-adb2c6e71967"
   }
 ]

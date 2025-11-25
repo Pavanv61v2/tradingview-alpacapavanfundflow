@@ -1,15 +1,15 @@
 {
-  "timestamp": "2025-11-25T00:00:30.739594",
-  "symbol": "BTC/USD",
+  "timestamp": "2025-11-25T21:01:21.177094",
+  "symbol": "CP",
   "action": "buy",
-  "qty": 0.011327,
+  "qty": 13,
   "notional": null,
-  "limitPrice": 88282.84,
+  "limitPrice": 71.56,
   "orderType": "limit",
   "allowShort": false,
   "fractionalRequested": false,
-  "timeInForce": "gtc",
-  "extendedHours": null,
+  "timeInForce": "day",
+  "extendedHours": true,
   "status": "success",
-  "orderId": "2c8b18f6-0bec-42e3-b8d1-69dca1d8aa5a"
+  "orderId": "38396e24-824d-4af0-9b35-adb2c6e71967"
 }
