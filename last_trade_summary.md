@@ -2,9 +2,9 @@
 
 
 
-**Time:** 2025-11-25T21:01:21.177094
+**Time:** 2025-11-26T21:01:23.292318
 
-**Symbol:** CP
+**Symbol:** COIN
 
 **Action:** buy
 
@@ -18,10 +18,10 @@
 
 **Fractional Requested:** False
 
-**Qty:** 13
+**Qty:** 3
 
-**Limit Price:** 71.56
+**Limit Price:** 265.04
 
-**Order ID:** 38396e24-824d-4af0-9b35-adb2c6e71967
+**Order ID:** 88718dca-5921-454f-ab6d-074814d99daa
 
 **Status:** success

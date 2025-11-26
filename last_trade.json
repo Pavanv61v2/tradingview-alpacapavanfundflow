@@ -1,15 +1,15 @@
 {
-  "timestamp": "2025-11-25T21:01:21.177094",
-  "symbol": "CP",
+  "timestamp": "2025-11-26T21:01:23.292318",
+  "symbol": "COIN",
   "action": "buy",
-  "qty": 13,
+  "qty": 3,
   "notional": null,
-  "limitPrice": 71.56,
+  "limitPrice": 265.04,
   "orderType": "limit",
   "allowShort": false,
   "fractionalRequested": false,
   "timeInForce": "day",
   "extendedHours": true,
   "status": "success",
-  "orderId": "38396e24-824d-4af0-9b35-adb2c6e71967"
+  "orderId": "88718dca-5921-454f-ab6d-074814d99daa"
 }
