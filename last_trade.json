@@ -1,15 +1,15 @@
 {
-  "timestamp": "2025-11-26T21:01:23.292318",
-  "symbol": "COIN",
+  "timestamp": "2025-11-27T00:00:28.721989",
+  "symbol": "HYPE/USD",
   "action": "buy",
-  "qty": 3,
+  "qty": 27.586,
   "notional": null,
-  "limitPrice": 265.04,
+  "limitPrice": 36.24918124,
   "orderType": "limit",
+  "timeInForce": "gtc",
+  "extendedHours": null,
   "allowShort": false,
   "fractionalRequested": false,
-  "timeInForce": "day",
-  "extendedHours": true,
-  "status": "success",
-  "orderId": "88718dca-5921-454f-ab6d-074814d99daa"
+  "status": "failed",
+  "error": "asset \"HYPE/USD\" not found"
 }

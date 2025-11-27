@@ -2,26 +2,26 @@
 
 
 
-**Time:** 2025-11-26T21:01:23.292318
+**Time:** 2025-11-27T00:00:28.721989
 
-**Symbol:** COIN
+**Symbol:** HYPE/USD
 
 **Action:** buy
 
 **Order Type:** limit
 
-**Time in Force:** day
-
-**Extended Hours:** True
+**Time in Force:** gtc
 
 **Allow Short:** False
 
 **Fractional Requested:** False
 
-**Qty:** 3
+**Qty:** 27.586
 
-**Limit Price:** 265.04
+**Limit Price:** 36.24918124
 
-**Order ID:** 88718dca-5921-454f-ab6d-074814d99daa
+**Status:** failed
 
-**Status:** success
+
+
+**Error:** `asset "HYPE/USD" not found`
