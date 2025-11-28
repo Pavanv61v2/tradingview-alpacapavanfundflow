@@ -2,9 +2,9 @@
 
 
 
-**Time:** 2025-11-28T18:01:23.049525
+**Time:** 2025-11-28T19:16:28.812318
 
-**Symbol:** GNS
+**Symbol:** NPPTF
 
 **Action:** buy
 
@@ -18,10 +18,12 @@
 
 **Fractional Requested:** False
 
-**Qty:** 635
+**Qty:** 956.0
 
-**Limit Price:** 0.7866
+**Limit Price:** 0.5229
 
-**Order ID:** d7b5f69a-db00-4a14-906a-db4f3766d00d
+**Status:** failed
 
-**Status:** success
+
+
+**Error:** `asset NPPTF is not active`
