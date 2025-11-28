@@ -479,5 +479,20 @@
     "fractionalRequested": false,
     "status": "failed",
     "error": "asset \"HYPE/USD\" not found"
+  },
+  {
+    "timestamp": "2025-11-28T18:01:23.049525",
+    "symbol": "GNS",
+    "action": "buy",
+    "qty": 635,
+    "notional": null,
+    "limitPrice": 0.7866,
+    "orderType": "limit",
+    "allowShort": false,
+    "fractionalRequested": false,
+    "timeInForce": "day",
+    "extendedHours": true,
+    "status": "success",
+    "orderId": "d7b5f69a-db00-4a14-906a-db4f3766d00d"
   }
 ]

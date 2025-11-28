@@ -1,15 +1,15 @@
 {
-  "timestamp": "2025-11-27T00:00:28.721989",
-  "symbol": "HYPE/USD",
+  "timestamp": "2025-11-28T18:01:23.049525",
+  "symbol": "GNS",
   "action": "buy",
-  "qty": 27.586,
+  "qty": 635,
   "notional": null,
-  "limitPrice": 36.24918124,
+  "limitPrice": 0.7866,
   "orderType": "limit",
-  "timeInForce": "gtc",
-  "extendedHours": null,
   "allowShort": false,
   "fractionalRequested": false,
-  "status": "failed",
-  "error": "asset \"HYPE/USD\" not found"
+  "timeInForce": "day",
+  "extendedHours": true,
+  "status": "success",
+  "orderId": "d7b5f69a-db00-4a14-906a-db4f3766d00d"
 }
