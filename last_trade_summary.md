@@ -2,28 +2,26 @@
 
 
 
-**Time:** 2025-11-28T19:16:28.812318
+**Time:** 2025-11-29T00:00:32.570184
 
-**Symbol:** NPPTF
+**Symbol:** BTC/USD
 
 **Action:** buy
 
 **Order Type:** limit
 
-**Time in Force:** day
-
-**Extended Hours:** True
+**Time in Force:** gtc
 
 **Allow Short:** False
 
 **Fractional Requested:** False
 
-**Qty:** 956.0
+**Qty:** 0.005501
 
-**Limit Price:** 0.5229
+**Limit Price:** 90891.25
 
 **Status:** failed
 
 
 
-**Error:** `asset NPPTF is not active`
+**Error:** `insufficient balance for USD (requested: 499.99, available: 0)`
