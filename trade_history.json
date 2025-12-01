@@ -524,5 +524,20 @@
     "fractionalRequested": false,
     "status": "failed",
     "error": "insufficient balance for USD (requested: 499.99, available: 0)"
+  },
+  {
+    "timestamp": "2025-12-01T21:01:24.648805",
+    "symbol": "MSTR",
+    "action": "buy",
+    "qty": 5.0,
+    "notional": null,
+    "limitPrice": 171.5,
+    "orderType": "limit",
+    "timeInForce": "day",
+    "extendedHours": true,
+    "allowShort": false,
+    "fractionalRequested": false,
+    "status": "failed",
+    "error": "insufficient buying power"
   }
 ]

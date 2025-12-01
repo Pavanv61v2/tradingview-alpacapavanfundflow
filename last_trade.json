@@ -1,15 +1,15 @@
 {
-  "timestamp": "2025-11-29T00:00:32.570184",
-  "symbol": "BTC/USD",
+  "timestamp": "2025-12-01T21:01:24.648805",
+  "symbol": "MSTR",
   "action": "buy",
-  "qty": 0.005501,
+  "qty": 5.0,
   "notional": null,
-  "limitPrice": 90891.25,
+  "limitPrice": 171.5,
   "orderType": "limit",
-  "timeInForce": "gtc",
-  "extendedHours": null,
+  "timeInForce": "day",
+  "extendedHours": true,
   "allowShort": false,
   "fractionalRequested": false,
   "status": "failed",
-  "error": "insufficient balance for USD (requested: 499.99, available: 0)"
+  "error": "insufficient buying power"
 }

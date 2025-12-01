@@ -2,26 +2,28 @@
 
 
 
-**Time:** 2025-11-29T00:00:32.570184
+**Time:** 2025-12-01T21:01:24.648805
 
-**Symbol:** BTC/USD
+**Symbol:** MSTR
 
 **Action:** buy
 
 **Order Type:** limit
 
-**Time in Force:** gtc
+**Time in Force:** day
+
+**Extended Hours:** True
 
 **Allow Short:** False
 
 **Fractional Requested:** False
 
-**Qty:** 0.005501
+**Qty:** 5.0
 
-**Limit Price:** 90891.25
+**Limit Price:** 171.5
 
 **Status:** failed
 
 
 
-**Error:** `insufficient balance for USD (requested: 499.99, available: 0)`
+**Error:** `insufficient buying power`
