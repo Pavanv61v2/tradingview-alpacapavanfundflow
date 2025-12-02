@@ -2,9 +2,9 @@
 
 
 
-**Time:** 2025-12-01T21:01:24.648805
+**Time:** 2025-12-02T21:01:21.924576
 
-**Symbol:** MSTR
+**Symbol:** ASTS
 
 **Action:** buy
 
@@ -18,9 +18,9 @@
 
 **Fractional Requested:** False
 
-**Qty:** 5.0
+**Qty:** 17.0
 
-**Limit Price:** 171.5
+**Limit Price:** 56.91
 
 **Status:** failed
 

@@ -539,5 +539,20 @@
     "fractionalRequested": false,
     "status": "failed",
     "error": "insufficient buying power"
+  },
+  {
+    "timestamp": "2025-12-02T21:01:21.924576",
+    "symbol": "ASTS",
+    "action": "buy",
+    "qty": 17.0,
+    "notional": null,
+    "limitPrice": 56.91,
+    "orderType": "limit",
+    "timeInForce": "day",
+    "extendedHours": true,
+    "allowShort": false,
+    "fractionalRequested": false,
+    "status": "failed",
+    "error": "insufficient buying power"
   }
 ]
