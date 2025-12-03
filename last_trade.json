@@ -1,15 +1,15 @@
 {
-  "timestamp": "2025-12-02T21:01:21.924576",
-  "symbol": "ASTS",
+  "timestamp": "2025-12-03T00:00:30.442880",
+  "symbol": "ETH/USD",
   "action": "buy",
-  "qty": 17.0,
+  "qty": 0.1668,
   "notional": null,
-  "limitPrice": 56.91,
+  "limitPrice": 2996.39,
   "orderType": "limit",
-  "timeInForce": "day",
-  "extendedHours": true,
+  "timeInForce": "gtc",
+  "extendedHours": null,
   "allowShort": false,
   "fractionalRequested": false,
   "status": "failed",
-  "error": "insufficient buying power"
+  "error": "insufficient balance for USD (requested: 499.8, available: 0)"
 }

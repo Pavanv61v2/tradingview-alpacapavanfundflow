@@ -2,28 +2,26 @@
 
 
 
-**Time:** 2025-12-02T21:01:21.924576
+**Time:** 2025-12-03T00:00:30.442880
 
-**Symbol:** ASTS
+**Symbol:** ETH/USD
 
 **Action:** buy
 
 **Order Type:** limit
 
-**Time in Force:** day
-
-**Extended Hours:** True
+**Time in Force:** gtc
 
 **Allow Short:** False
 
 **Fractional Requested:** False
 
-**Qty:** 17.0
+**Qty:** 0.1668
 
-**Limit Price:** 56.91
+**Limit Price:** 2996.39
 
 **Status:** failed
 
 
 
-**Error:** `insufficient buying power`
+**Error:** `insufficient balance for USD (requested: 499.8, available: 0)`
