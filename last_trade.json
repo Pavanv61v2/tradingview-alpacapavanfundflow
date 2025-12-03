@@ -1,15 +1,15 @@
 {
-  "timestamp": "2025-12-03T00:00:30.442880",
-  "symbol": "ETH/USD",
+  "timestamp": "2025-12-03T21:01:23.213537",
+  "symbol": "RKLB",
   "action": "buy",
-  "qty": 0.1668,
+  "qty": 22,
   "notional": null,
-  "limitPrice": 2996.39,
+  "limitPrice": 44.73,
   "orderType": "limit",
-  "timeInForce": "gtc",
-  "extendedHours": null,
   "allowShort": false,
   "fractionalRequested": false,
-  "status": "failed",
-  "error": "insufficient balance for USD (requested: 499.8, available: 0)"
+  "timeInForce": "day",
+  "extendedHours": true,
+  "status": "success",
+  "orderId": "249d392a-6270-467e-9464-8a4463838837"
 }
