@@ -584,5 +584,20 @@
     "extendedHours": true,
     "status": "success",
     "orderId": "249d392a-6270-467e-9464-8a4463838837"
+  },
+  {
+    "timestamp": "2025-12-04T21:01:23.210344",
+    "symbol": "CDNS",
+    "action": "buy",
+    "qty": 1,
+    "notional": null,
+    "limitPrice": 337.36,
+    "orderType": "limit",
+    "allowShort": false,
+    "fractionalRequested": false,
+    "timeInForce": "day",
+    "extendedHours": true,
+    "status": "success",
+    "orderId": "96ccebbf-1bec-4b80-8cc2-41bc042ea3ad"
   }
 ]

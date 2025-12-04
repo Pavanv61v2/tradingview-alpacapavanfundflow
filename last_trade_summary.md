@@ -2,9 +2,9 @@
 
 
 
-**Time:** 2025-12-03T21:01:23.213537
+**Time:** 2025-12-04T21:01:23.210344
 
-**Symbol:** RKLB
+**Symbol:** CDNS
 
 **Action:** buy
 
@@ -18,10 +18,10 @@
 
 **Fractional Requested:** False
 
-**Qty:** 22
+**Qty:** 1
 
-**Limit Price:** 44.73
+**Limit Price:** 337.36
 
-**Order ID:** 249d392a-6270-467e-9464-8a4463838837
+**Order ID:** 96ccebbf-1bec-4b80-8cc2-41bc042ea3ad
 
 **Status:** success
