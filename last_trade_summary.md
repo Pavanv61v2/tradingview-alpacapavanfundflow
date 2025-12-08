@@ -2,9 +2,9 @@
 
 
 
-**Time:** 2025-12-04T21:01:23.210344
+**Time:** 2025-12-08T21:01:29.515894
 
-**Symbol:** CDNS
+**Symbol:** OUST
 
 **Action:** buy
 
@@ -18,10 +18,10 @@
 
 **Fractional Requested:** False
 
-**Qty:** 1
+**Qty:** 19
 
-**Limit Price:** 337.36
+**Limit Price:** 25.51
 
-**Order ID:** 96ccebbf-1bec-4b80-8cc2-41bc042ea3ad
+**Order ID:** fea0e32e-840c-4a28-b856-bb172928473e
 
 **Status:** success

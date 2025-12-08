@@ -599,5 +599,20 @@
     "extendedHours": true,
     "status": "success",
     "orderId": "96ccebbf-1bec-4b80-8cc2-41bc042ea3ad"
+  },
+  {
+    "timestamp": "2025-12-08T21:01:29.515894",
+    "symbol": "OUST",
+    "action": "buy",
+    "qty": 19,
+    "notional": null,
+    "limitPrice": 25.51,
+    "orderType": "limit",
+    "allowShort": false,
+    "fractionalRequested": false,
+    "timeInForce": "day",
+    "extendedHours": true,
+    "status": "success",
+    "orderId": "fea0e32e-840c-4a28-b856-bb172928473e"
   }
 ]
