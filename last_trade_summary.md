@@ -2,9 +2,9 @@
 
 
 
-**Time:** 2025-12-09T21:01:29.872458
+**Time:** 2025-12-10T21:01:24.303881
 
-**Symbol:** ABCL
+**Symbol:** GRMN
 
 **Action:** buy
 
@@ -18,10 +18,12 @@
 
 **Fractional Requested:** False
 
-**Qty:** 272
+**Qty:** 2.0
 
-**Limit Price:** 3.68
+**Limit Price:** 210.27
 
-**Order ID:** 1644c6dd-30fb-4472-a3cd-c801b5863e62
+**Status:** failed
 
-**Status:** success
+
+
+**Error:** `insufficient buying power`

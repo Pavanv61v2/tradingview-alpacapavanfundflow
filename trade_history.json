@@ -629,5 +629,20 @@
     "extendedHours": true,
     "status": "success",
     "orderId": "1644c6dd-30fb-4472-a3cd-c801b5863e62"
+  },
+  {
+    "timestamp": "2025-12-10T21:01:24.303881",
+    "symbol": "GRMN",
+    "action": "buy",
+    "qty": 2.0,
+    "notional": null,
+    "limitPrice": 210.27,
+    "orderType": "limit",
+    "timeInForce": "day",
+    "extendedHours": true,
+    "allowShort": false,
+    "fractionalRequested": false,
+    "status": "failed",
+    "error": "insufficient buying power"
   }
 ]
