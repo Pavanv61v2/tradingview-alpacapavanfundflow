@@ -644,5 +644,20 @@
     "fractionalRequested": false,
     "status": "failed",
     "error": "insufficient buying power"
+  },
+  {
+    "timestamp": "2025-12-16T21:01:23.618583",
+    "symbol": "CLPT",
+    "action": "buy",
+    "qty": 72.0,
+    "notional": null,
+    "limitPrice": 13.81,
+    "orderType": "limit",
+    "timeInForce": "day",
+    "extendedHours": true,
+    "allowShort": false,
+    "fractionalRequested": false,
+    "status": "failed",
+    "error": "insufficient buying power"
   }
 ]

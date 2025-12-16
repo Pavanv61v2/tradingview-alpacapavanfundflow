@@ -2,9 +2,9 @@
 
 
 
-**Time:** 2025-12-10T21:01:24.303881
+**Time:** 2025-12-16T21:01:23.618583
 
-**Symbol:** GRMN
+**Symbol:** CLPT
 
 **Action:** buy
 
@@ -18,9 +18,9 @@
 
 **Fractional Requested:** False
 
-**Qty:** 2.0
+**Qty:** 72.0
 
-**Limit Price:** 210.27
+**Limit Price:** 13.81
 
 **Status:** failed
 
