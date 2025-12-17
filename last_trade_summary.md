@@ -2,9 +2,9 @@
 
 
 
-**Time:** 2025-12-16T21:01:23.618583
+**Time:** 2025-12-17T21:01:33.831292
 
-**Symbol:** CLPT
+**Symbol:** TTD
 
 **Action:** buy
 
@@ -18,9 +18,9 @@
 
 **Fractional Requested:** False
 
-**Qty:** 72.0
+**Qty:** 26.0
 
-**Limit Price:** 13.81
+**Limit Price:** 37.19
 
 **Status:** failed
 
