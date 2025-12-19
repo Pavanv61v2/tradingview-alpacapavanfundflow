@@ -2,9 +2,9 @@
 
 
 
-**Time:** 2025-12-17T21:01:33.831292
+**Time:** 2025-12-19T21:01:24.980549
 
-**Symbol:** TTD
+**Symbol:** DFDV
 
 **Action:** buy
 
@@ -18,9 +18,9 @@
 
 **Fractional Requested:** False
 
-**Qty:** 26.0
+**Qty:** 194.0
 
-**Limit Price:** 37.19
+**Limit Price:** 5.14
 
 **Status:** failed
 
