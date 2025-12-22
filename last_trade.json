@@ -1,15 +1,15 @@
 {
-  "timestamp": "2025-12-19T21:01:24.980549",
-  "symbol": "DFDV",
+  "timestamp": "2025-12-22T00:00:32.359270",
+  "symbol": "HYPE/USD",
   "action": "buy",
-  "qty": 194.0,
+  "qty": 40.265,
   "notional": null,
-  "limitPrice": 5.14,
+  "limitPrice": 24.83513417,
   "orderType": "limit",
-  "timeInForce": "day",
-  "extendedHours": true,
+  "timeInForce": "gtc",
+  "extendedHours": null,
   "allowShort": false,
   "fractionalRequested": false,
   "status": "failed",
-  "error": "insufficient buying power"
+  "error": "asset \"HYPE/USD\" not found"
 }

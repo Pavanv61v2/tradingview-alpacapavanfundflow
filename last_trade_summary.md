@@ -2,28 +2,26 @@
 
 
 
-**Time:** 2025-12-19T21:01:24.980549
+**Time:** 2025-12-22T00:00:32.359270
 
-**Symbol:** DFDV
+**Symbol:** HYPE/USD
 
 **Action:** buy
 
 **Order Type:** limit
 
-**Time in Force:** day
-
-**Extended Hours:** True
+**Time in Force:** gtc
 
 **Allow Short:** False
 
 **Fractional Requested:** False
 
-**Qty:** 194.0
+**Qty:** 40.265
 
-**Limit Price:** 5.14
+**Limit Price:** 24.83513417
 
 **Status:** failed
 
 
 
-**Error:** `insufficient buying power`
+**Error:** `asset "HYPE/USD" not found`
