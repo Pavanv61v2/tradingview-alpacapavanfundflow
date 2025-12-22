@@ -704,5 +704,20 @@
     "fractionalRequested": false,
     "status": "failed",
     "error": "asset \"HYPE/USD\" not found"
+  },
+  {
+    "timestamp": "2025-12-22T21:01:27.729359",
+    "symbol": "HIVE",
+    "action": "buy",
+    "qty": 342.0,
+    "notional": null,
+    "limitPrice": 2.92,
+    "orderType": "limit",
+    "timeInForce": "day",
+    "extendedHours": true,
+    "allowShort": false,
+    "fractionalRequested": false,
+    "status": "failed",
+    "error": "insufficient buying power"
   }
 ]

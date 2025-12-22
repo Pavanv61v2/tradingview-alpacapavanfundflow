@@ -1,15 +1,15 @@
 {
-  "timestamp": "2025-12-22T00:00:32.359270",
-  "symbol": "HYPE/USD",
+  "timestamp": "2025-12-22T21:01:27.729359",
+  "symbol": "HIVE",
   "action": "buy",
-  "qty": 40.265,
+  "qty": 342.0,
   "notional": null,
-  "limitPrice": 24.83513417,
+  "limitPrice": 2.92,
   "orderType": "limit",
-  "timeInForce": "gtc",
-  "extendedHours": null,
+  "timeInForce": "day",
+  "extendedHours": true,
   "allowShort": false,
   "fractionalRequested": false,
   "status": "failed",
-  "error": "asset \"HYPE/USD\" not found"
+  "error": "insufficient buying power"
 }
