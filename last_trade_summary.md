@@ -2,9 +2,9 @@
 
 
 
-**Time:** 2025-12-22T21:01:27.729359
+**Time:** 2025-12-23T21:01:21.037913
 
-**Symbol:** HIVE
+**Symbol:** PANW
 
 **Action:** buy
 
@@ -18,9 +18,9 @@
 
 **Fractional Requested:** False
 
-**Qty:** 342.0
+**Qty:** 5.0
 
-**Limit Price:** 2.92
+**Limit Price:** 188.13
 
 **Status:** failed
 

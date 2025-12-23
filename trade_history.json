@@ -719,5 +719,20 @@
     "fractionalRequested": false,
     "status": "failed",
     "error": "insufficient buying power"
+  },
+  {
+    "timestamp": "2025-12-23T21:01:21.037913",
+    "symbol": "PANW",
+    "action": "buy",
+    "qty": 5.0,
+    "notional": null,
+    "limitPrice": 188.13,
+    "orderType": "limit",
+    "timeInForce": "day",
+    "extendedHours": true,
+    "allowShort": false,
+    "fractionalRequested": false,
+    "status": "failed",
+    "error": "insufficient buying power"
   }
 ]
