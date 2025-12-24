@@ -2,9 +2,9 @@
 
 
 
-**Time:** 2025-12-23T21:01:21.037913
+**Time:** 2025-12-24T18:01:26.202533
 
-**Symbol:** PANW
+**Symbol:** COST
 
 **Action:** buy
 
@@ -18,9 +18,9 @@
 
 **Fractional Requested:** False
 
-**Qty:** 5.0
+**Qty:** 1.0
 
-**Limit Price:** 188.13
+**Limit Price:** 871.86
 
 **Status:** failed
 

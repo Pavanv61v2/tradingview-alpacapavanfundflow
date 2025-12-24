@@ -734,5 +734,20 @@
     "fractionalRequested": false,
     "status": "failed",
     "error": "insufficient buying power"
+  },
+  {
+    "timestamp": "2025-12-24T18:01:26.202533",
+    "symbol": "COST",
+    "action": "buy",
+    "qty": 1.0,
+    "notional": null,
+    "limitPrice": 871.86,
+    "orderType": "limit",
+    "timeInForce": "day",
+    "extendedHours": true,
+    "allowShort": false,
+    "fractionalRequested": false,
+    "status": "failed",
+    "error": "insufficient buying power"
   }
 ]
