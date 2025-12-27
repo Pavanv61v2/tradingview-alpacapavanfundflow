@@ -1,15 +1,15 @@
 {
-  "timestamp": "2025-12-24T18:01:26.202533",
-  "symbol": "COST",
+  "timestamp": "2025-12-27T00:00:29.902236",
+  "symbol": "HYPE/USD",
   "action": "buy",
-  "qty": 1.0,
+  "qty": 19.393,
   "notional": null,
-  "limitPrice": 871.86,
+  "limitPrice": 25.78153223,
   "orderType": "limit",
-  "timeInForce": "day",
-  "extendedHours": true,
+  "timeInForce": "gtc",
+  "extendedHours": null,
   "allowShort": false,
   "fractionalRequested": false,
   "status": "failed",
-  "error": "insufficient buying power"
+  "error": "asset \"HYPE/USD\" not found"
 }

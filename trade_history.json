@@ -749,5 +749,20 @@
     "fractionalRequested": false,
     "status": "failed",
     "error": "insufficient buying power"
+  },
+  {
+    "timestamp": "2025-12-27T00:00:29.902236",
+    "symbol": "HYPE/USD",
+    "action": "buy",
+    "qty": 19.393,
+    "notional": null,
+    "limitPrice": 25.78153223,
+    "orderType": "limit",
+    "timeInForce": "gtc",
+    "extendedHours": null,
+    "allowShort": false,
+    "fractionalRequested": false,
+    "status": "failed",
+    "error": "asset \"HYPE/USD\" not found"
   }
 ]

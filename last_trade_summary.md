@@ -2,28 +2,26 @@
 
 
 
-**Time:** 2025-12-24T18:01:26.202533
+**Time:** 2025-12-27T00:00:29.902236
 
-**Symbol:** COST
+**Symbol:** HYPE/USD
 
 **Action:** buy
 
 **Order Type:** limit
 
-**Time in Force:** day
-
-**Extended Hours:** True
+**Time in Force:** gtc
 
 **Allow Short:** False
 
 **Fractional Requested:** False
 
-**Qty:** 1.0
+**Qty:** 19.393
 
-**Limit Price:** 871.86
+**Limit Price:** 25.78153223
 
 **Status:** failed
 
 
 
-**Error:** `insufficient buying power`
+**Error:** `asset "HYPE/USD" not found`
