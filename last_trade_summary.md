@@ -2,26 +2,28 @@
 
 
 
-**Time:** 2025-12-27T00:00:29.902236
+**Time:** 2025-12-29T21:01:24.173214
 
-**Symbol:** HYPE/USD
+**Symbol:** CELH
 
 **Action:** buy
 
 **Order Type:** limit
 
-**Time in Force:** gtc
+**Time in Force:** day
+
+**Extended Hours:** True
 
 **Allow Short:** False
 
 **Fractional Requested:** False
 
-**Qty:** 19.393
+**Qty:** 10.0
 
-**Limit Price:** 25.78153223
+**Limit Price:** 46.43
 
 **Status:** failed
 
 
 
-**Error:** `asset "HYPE/USD" not found`
+**Error:** `insufficient buying power`

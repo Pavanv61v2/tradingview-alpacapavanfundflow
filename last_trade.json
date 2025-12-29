@@ -1,15 +1,15 @@
 {
-  "timestamp": "2025-12-27T00:00:29.902236",
-  "symbol": "HYPE/USD",
+  "timestamp": "2025-12-29T21:01:24.173214",
+  "symbol": "CELH",
   "action": "buy",
-  "qty": 19.393,
+  "qty": 10.0,
   "notional": null,
-  "limitPrice": 25.78153223,
+  "limitPrice": 46.43,
   "orderType": "limit",
-  "timeInForce": "gtc",
-  "extendedHours": null,
+  "timeInForce": "day",
+  "extendedHours": true,
   "allowShort": false,
   "fractionalRequested": false,
   "status": "failed",
-  "error": "asset \"HYPE/USD\" not found"
+  "error": "insufficient buying power"
 }
