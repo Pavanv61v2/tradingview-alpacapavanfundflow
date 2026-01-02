@@ -2,9 +2,9 @@
 
 
 
-**Time:** 2025-12-29T21:01:24.173214
+**Time:** 2026-01-02T21:01:21.214719
 
-**Symbol:** CELH
+**Symbol:** BTBT
 
 **Action:** buy
 
@@ -18,9 +18,9 @@
 
 **Fractional Requested:** False
 
-**Qty:** 10.0
+**Qty:** 490.0
 
-**Limit Price:** 46.43
+**Limit Price:** 2.04
 
 **Status:** failed
 
