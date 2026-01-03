@@ -1,15 +1,15 @@
 {
-  "timestamp": "2026-01-02T21:01:21.214719",
-  "symbol": "BTBT",
+  "timestamp": "2026-01-03T00:00:30.989158",
+  "symbol": "SUI/USD",
   "action": "buy",
-  "qty": 490.0,
+  "qty": 311.332,
   "notional": null,
-  "limitPrice": 2.04,
+  "limitPrice": 1.606,
   "orderType": "limit",
-  "timeInForce": "day",
-  "extendedHours": true,
+  "timeInForce": "gtc",
+  "extendedHours": null,
   "allowShort": false,
   "fractionalRequested": false,
   "status": "failed",
-  "error": "insufficient buying power"
+  "error": "asset \"SUI/USD\" not found"
 }

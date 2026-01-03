@@ -2,28 +2,26 @@
 
 
 
-**Time:** 2026-01-02T21:01:21.214719
+**Time:** 2026-01-03T00:00:30.989158
 
-**Symbol:** BTBT
+**Symbol:** SUI/USD
 
 **Action:** buy
 
 **Order Type:** limit
 
-**Time in Force:** day
-
-**Extended Hours:** True
+**Time in Force:** gtc
 
 **Allow Short:** False
 
 **Fractional Requested:** False
 
-**Qty:** 490.0
+**Qty:** 311.332
 
-**Limit Price:** 2.04
+**Limit Price:** 1.606
 
 **Status:** failed
 
 
 
-**Error:** `insufficient buying power`
+**Error:** `asset "SUI/USD" not found`
