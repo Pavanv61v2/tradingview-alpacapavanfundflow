@@ -2,26 +2,28 @@
 
 
 
-**Time:** 2026-01-03T00:00:30.989158
+**Time:** 2026-01-05T21:01:25.264629
 
-**Symbol:** SUI/USD
+**Symbol:** ACHR
 
 **Action:** buy
 
 **Order Type:** limit
 
-**Time in Force:** gtc
+**Time in Force:** day
+
+**Extended Hours:** True
 
 **Allow Short:** False
 
 **Fractional Requested:** False
 
-**Qty:** 311.332
+**Qty:** 58.0
 
-**Limit Price:** 1.606
+**Limit Price:** 8.57
 
 **Status:** failed
 
 
 
-**Error:** `asset "SUI/USD" not found`
+**Error:** `insufficient buying power`

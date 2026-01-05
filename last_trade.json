@@ -1,15 +1,15 @@
 {
-  "timestamp": "2026-01-03T00:00:30.989158",
-  "symbol": "SUI/USD",
+  "timestamp": "2026-01-05T21:01:25.264629",
+  "symbol": "ACHR",
   "action": "buy",
-  "qty": 311.332,
+  "qty": 58.0,
   "notional": null,
-  "limitPrice": 1.606,
+  "limitPrice": 8.57,
   "orderType": "limit",
-  "timeInForce": "gtc",
-  "extendedHours": null,
+  "timeInForce": "day",
+  "extendedHours": true,
   "allowShort": false,
   "fractionalRequested": false,
   "status": "failed",
-  "error": "asset \"SUI/USD\" not found"
+  "error": "insufficient buying power"
 }
