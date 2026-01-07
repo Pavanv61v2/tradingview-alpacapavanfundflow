@@ -2,9 +2,9 @@
 
 
 
-**Time:** 2026-01-05T21:01:25.264629
+**Time:** 2026-01-07T21:01:23.069931
 
-**Symbol:** ACHR
+**Symbol:** ABCL
 
 **Action:** buy
 
@@ -18,9 +18,9 @@
 
 **Fractional Requested:** False
 
-**Qty:** 58.0
+**Qty:** 121.0
 
-**Limit Price:** 8.57
+**Limit Price:** 4.12
 
 **Status:** failed
 
