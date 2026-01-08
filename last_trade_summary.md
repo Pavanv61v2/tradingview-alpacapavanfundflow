@@ -2,9 +2,9 @@
 
 
 
-**Time:** 2026-01-07T21:01:23.069931
+**Time:** 2026-01-08T21:01:25.010848
 
-**Symbol:** ABCL
+**Symbol:** LEN
 
 **Action:** buy
 
@@ -18,9 +18,9 @@
 
 **Fractional Requested:** False
 
-**Qty:** 121.0
+**Qty:** 9.0
 
-**Limit Price:** 4.12
+**Limit Price:** 109.52
 
 **Status:** failed
 
