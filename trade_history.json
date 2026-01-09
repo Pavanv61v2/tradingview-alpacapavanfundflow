@@ -854,5 +854,20 @@
     "fractionalRequested": false,
     "status": "failed",
     "error": "insufficient buying power"
+  },
+  {
+    "timestamp": "2026-01-09T21:01:24.823195",
+    "symbol": "BITF",
+    "action": "buy",
+    "qty": 177.0,
+    "notional": null,
+    "limitPrice": 2.81,
+    "orderType": "limit",
+    "timeInForce": "day",
+    "extendedHours": true,
+    "allowShort": false,
+    "fractionalRequested": false,
+    "status": "failed",
+    "error": "insufficient buying power"
   }
 ]

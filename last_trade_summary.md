@@ -2,9 +2,9 @@
 
 
 
-**Time:** 2026-01-08T21:01:25.010848
+**Time:** 2026-01-09T21:01:24.823195
 
-**Symbol:** LEN
+**Symbol:** BITF
 
 **Action:** buy
 
@@ -18,9 +18,9 @@
 
 **Fractional Requested:** False
 
-**Qty:** 9.0
+**Qty:** 177.0
 
-**Limit Price:** 109.52
+**Limit Price:** 2.81
 
 **Status:** failed
 
