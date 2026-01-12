@@ -869,5 +869,20 @@
     "fractionalRequested": false,
     "status": "failed",
     "error": "insufficient buying power"
+  },
+  {
+    "timestamp": "2026-01-12T21:01:37.543857",
+    "symbol": "ONDS",
+    "action": "sell",
+    "orderType": "skip",
+    "timeInForce": "day",
+    "extendedHours": null,
+    "allowShort": false,
+    "fractionalRequested": false,
+    "qty": 0,
+    "notional": null,
+    "limitPrice": 13.18,
+    "status": "skipped",
+    "note": "No available holdings to sell ONDS."
   }
 ]

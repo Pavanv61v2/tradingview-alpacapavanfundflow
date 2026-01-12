@@ -1,15 +1,15 @@
 {
-  "timestamp": "2026-01-09T21:01:24.823195",
-  "symbol": "BITF",
-  "action": "buy",
-  "qty": 177.0,
-  "notional": null,
-  "limitPrice": 2.81,
-  "orderType": "limit",
+  "timestamp": "2026-01-12T21:01:37.543857",
+  "symbol": "ONDS",
+  "action": "sell",
+  "orderType": "skip",
   "timeInForce": "day",
-  "extendedHours": true,
+  "extendedHours": null,
   "allowShort": false,
   "fractionalRequested": false,
-  "status": "failed",
-  "error": "insufficient buying power"
+  "qty": 0,
+  "notional": null,
+  "limitPrice": 13.18,
+  "status": "skipped",
+  "note": "No available holdings to sell ONDS."
 }

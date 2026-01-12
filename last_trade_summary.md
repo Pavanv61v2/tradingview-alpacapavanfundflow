@@ -2,28 +2,22 @@
 
 
 
-**Time:** 2026-01-09T21:01:24.823195
+**Time:** 2026-01-12T21:01:37.543857
 
-**Symbol:** BITF
+**Symbol:** ONDS
 
-**Action:** buy
+**Action:** sell
 
-**Order Type:** limit
+**Order Type:** skip
 
 **Time in Force:** day
-
-**Extended Hours:** True
 
 **Allow Short:** False
 
 **Fractional Requested:** False
 
-**Qty:** 177.0
+**Qty:** 0
 
-**Limit Price:** 2.81
+**Limit Price:** 13.18
 
-**Status:** failed
-
-
-
-**Error:** `insufficient buying power`
+**Status:** skipped
