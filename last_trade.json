@@ -1,15 +1,15 @@
 {
-  "timestamp": "2026-01-12T21:01:37.543857",
-  "symbol": "ONDS",
-  "action": "sell",
-  "orderType": "skip",
+  "timestamp": "2026-01-13T21:01:25.099620",
+  "symbol": "CLSK",
+  "action": "buy",
+  "qty": 39.0,
+  "notional": null,
+  "limitPrice": 12.55,
+  "orderType": "limit",
   "timeInForce": "day",
-  "extendedHours": null,
+  "extendedHours": true,
   "allowShort": false,
   "fractionalRequested": false,
-  "qty": 0,
-  "notional": null,
-  "limitPrice": 13.18,
-  "status": "skipped",
-  "note": "No available holdings to sell ONDS."
+  "status": "failed",
+  "error": "insufficient buying power"
 }

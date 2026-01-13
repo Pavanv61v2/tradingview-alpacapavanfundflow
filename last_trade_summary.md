@@ -2,22 +2,28 @@
 
 
 
-**Time:** 2026-01-12T21:01:37.543857
+**Time:** 2026-01-13T21:01:25.099620
 
-**Symbol:** ONDS
+**Symbol:** CLSK
 
-**Action:** sell
+**Action:** buy
 
-**Order Type:** skip
+**Order Type:** limit
 
 **Time in Force:** day
+
+**Extended Hours:** True
 
 **Allow Short:** False
 
 **Fractional Requested:** False
 
-**Qty:** 0
+**Qty:** 39.0
 
-**Limit Price:** 13.18
+**Limit Price:** 12.55
 
-**Status:** skipped
+**Status:** failed
+
+
+
+**Error:** `insufficient buying power`
