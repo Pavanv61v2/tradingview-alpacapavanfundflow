@@ -2,9 +2,9 @@
 
 
 
-**Time:** 2026-01-13T21:01:25.099620
+**Time:** 2026-01-15T21:01:38.523783
 
-**Symbol:** CLSK
+**Symbol:** CLOV
 
 **Action:** buy
 
@@ -18,9 +18,9 @@
 
 **Fractional Requested:** False
 
-**Qty:** 39.0
+**Qty:** 190.0
 
-**Limit Price:** 12.55
+**Limit Price:** 2.63
 
 **Status:** failed
 

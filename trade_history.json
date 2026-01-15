@@ -899,5 +899,20 @@
     "fractionalRequested": false,
     "status": "failed",
     "error": "insufficient buying power"
+  },
+  {
+    "timestamp": "2026-01-15T21:01:38.523783",
+    "symbol": "CLOV",
+    "action": "buy",
+    "qty": 190.0,
+    "notional": null,
+    "limitPrice": 2.63,
+    "orderType": "limit",
+    "timeInForce": "day",
+    "extendedHours": true,
+    "allowShort": false,
+    "fractionalRequested": false,
+    "status": "failed",
+    "error": "insufficient buying power"
   }
 ]
