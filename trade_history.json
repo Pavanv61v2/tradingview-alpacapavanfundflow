@@ -914,5 +914,20 @@
     "fractionalRequested": false,
     "status": "failed",
     "error": "insufficient buying power"
+  },
+  {
+    "timestamp": "2026-01-21T21:01:53.731457",
+    "symbol": "ARM",
+    "action": "buy",
+    "qty": 5.0,
+    "notional": null,
+    "limitPrice": 113.92,
+    "orderType": "limit",
+    "timeInForce": "day",
+    "extendedHours": true,
+    "allowShort": false,
+    "fractionalRequested": false,
+    "status": "failed",
+    "error": "insufficient buying power"
   }
 ]

@@ -2,9 +2,9 @@
 
 
 
-**Time:** 2026-01-15T21:01:38.523783
+**Time:** 2026-01-21T21:01:53.731457
 
-**Symbol:** CLOV
+**Symbol:** ARM
 
 **Action:** buy
 
@@ -18,9 +18,9 @@
 
 **Fractional Requested:** False
 
-**Qty:** 190.0
+**Qty:** 5.0
 
-**Limit Price:** 2.63
+**Limit Price:** 113.92
 
 **Status:** failed
 
