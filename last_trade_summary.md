@@ -2,9 +2,9 @@
 
 
 
-**Time:** 2026-01-21T21:01:53.731457
+**Time:** 2026-01-22T21:01:30.910815
 
-**Symbol:** ARM
+**Symbol:** HIMS
 
 **Action:** buy
 
@@ -18,9 +18,9 @@
 
 **Fractional Requested:** False
 
-**Qty:** 5.0
+**Qty:** 17.0
 
-**Limit Price:** 113.92
+**Limit Price:** 30.54
 
 **Status:** failed
 

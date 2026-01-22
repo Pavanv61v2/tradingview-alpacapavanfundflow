@@ -929,5 +929,20 @@
     "fractionalRequested": false,
     "status": "failed",
     "error": "insufficient buying power"
+  },
+  {
+    "timestamp": "2026-01-22T21:01:30.910815",
+    "symbol": "HIMS",
+    "action": "buy",
+    "qty": 17.0,
+    "notional": null,
+    "limitPrice": 30.54,
+    "orderType": "limit",
+    "timeInForce": "day",
+    "extendedHours": true,
+    "allowShort": false,
+    "fractionalRequested": false,
+    "status": "failed",
+    "error": "insufficient buying power"
   }
 ]
