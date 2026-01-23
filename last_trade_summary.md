@@ -2,9 +2,9 @@
 
 
 
-**Time:** 2026-01-22T21:01:30.910815
+**Time:** 2026-01-23T21:01:30.920304
 
-**Symbol:** HIMS
+**Symbol:** FMST
 
 **Action:** buy
 
@@ -18,9 +18,9 @@
 
 **Fractional Requested:** False
 
-**Qty:** 17.0
+**Qty:** 212.0
 
-**Limit Price:** 30.54
+**Limit Price:** 2.37
 
 **Status:** failed
 
