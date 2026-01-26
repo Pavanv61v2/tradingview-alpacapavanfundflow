@@ -2,9 +2,9 @@
 
 
 
-**Time:** 2026-01-23T21:01:30.920304
+**Time:** 2026-01-26T21:01:31.774192
 
-**Symbol:** FMST
+**Symbol:** GRAB
 
 **Action:** buy
 
@@ -18,9 +18,9 @@
 
 **Fractional Requested:** False
 
-**Qty:** 212.0
+**Qty:** 110.0
 
-**Limit Price:** 2.37
+**Limit Price:** 4.55
 
 **Status:** failed
 
