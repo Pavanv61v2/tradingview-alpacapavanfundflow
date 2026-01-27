@@ -2,9 +2,9 @@
 
 
 
-**Time:** 2026-01-26T21:01:31.774192
+**Time:** 2026-01-27T21:01:31.839197
 
-**Symbol:** GRAB
+**Symbol:** AVGO
 
 **Action:** buy
 
@@ -18,9 +18,9 @@
 
 **Fractional Requested:** False
 
-**Qty:** 110.0
+**Qty:** 2.0
 
-**Limit Price:** 4.55
+**Limit Price:** 332.78
 
 **Status:** failed
 

@@ -974,5 +974,20 @@
     "fractionalRequested": false,
     "status": "failed",
     "error": "insufficient buying power"
+  },
+  {
+    "timestamp": "2026-01-27T21:01:31.839197",
+    "symbol": "AVGO",
+    "action": "buy",
+    "qty": 2.0,
+    "notional": null,
+    "limitPrice": 332.78,
+    "orderType": "limit",
+    "timeInForce": "day",
+    "extendedHours": true,
+    "allowShort": false,
+    "fractionalRequested": false,
+    "status": "failed",
+    "error": "insufficient buying power"
   }
 ]
