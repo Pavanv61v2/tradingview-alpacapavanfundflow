@@ -2,9 +2,9 @@
 
 
 
-**Time:** 2026-01-27T21:01:31.839197
+**Time:** 2026-01-28T21:01:32.556720
 
-**Symbol:** AVGO
+**Symbol:** MRVL
 
 **Action:** buy
 
@@ -18,9 +18,9 @@
 
 **Fractional Requested:** False
 
-**Qty:** 2.0
+**Qty:** 6.0
 
-**Limit Price:** 332.78
+**Limit Price:** 83.61
 
 **Status:** failed
 
