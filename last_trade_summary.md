@@ -2,9 +2,9 @@
 
 
 
-**Time:** 2026-01-28T21:01:32.556720
+**Time:** 2026-02-05T21:01:35.665957
 
-**Symbol:** MRVL
+**Symbol:** NIO
 
 **Action:** buy
 
@@ -18,9 +18,9 @@
 
 **Fractional Requested:** False
 
-**Qty:** 6.0
+**Qty:** 107.0
 
-**Limit Price:** 83.61
+**Limit Price:** 4.71
 
 **Status:** failed
 

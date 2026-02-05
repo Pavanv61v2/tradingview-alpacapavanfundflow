@@ -1004,5 +1004,20 @@
     "fractionalRequested": false,
     "status": "failed",
     "error": "insufficient buying power"
+  },
+  {
+    "timestamp": "2026-02-05T21:01:35.665957",
+    "symbol": "NIO",
+    "action": "buy",
+    "qty": 107.0,
+    "notional": null,
+    "limitPrice": 4.71,
+    "orderType": "limit",
+    "timeInForce": "day",
+    "extendedHours": true,
+    "allowShort": false,
+    "fractionalRequested": false,
+    "status": "failed",
+    "error": "insufficient buying power"
   }
 ]
