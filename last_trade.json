@@ -1,15 +1,15 @@
 {
-  "timestamp": "2026-02-09T00:00:36.209651",
-  "symbol": "BTC/USD",
+  "timestamp": "2026-02-09T21:14:32.711385",
+  "symbol": "QS",
   "action": "buy",
-  "qty": 1.0,
+  "qty": 55.0,
   "notional": null,
-  "limitPrice": 70296.49,
+  "limitPrice": 9.19,
   "orderType": "limit",
-  "timeInForce": "gtc",
-  "extendedHours": null,
+  "timeInForce": "day",
+  "extendedHours": true,
   "allowShort": false,
   "fractionalRequested": false,
   "status": "failed",
-  "error": "insufficient balance for USD (requested: 70296.49, available: 0)"
+  "error": "insufficient buying power"
 }

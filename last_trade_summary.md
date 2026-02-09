@@ -2,26 +2,28 @@
 
 
 
-**Time:** 2026-02-09T00:00:36.209651
+**Time:** 2026-02-09T21:14:32.711385
 
-**Symbol:** BTC/USD
+**Symbol:** QS
 
 **Action:** buy
 
 **Order Type:** limit
 
-**Time in Force:** gtc
+**Time in Force:** day
+
+**Extended Hours:** True
 
 **Allow Short:** False
 
 **Fractional Requested:** False
 
-**Qty:** 1.0
+**Qty:** 55.0
 
-**Limit Price:** 70296.49
+**Limit Price:** 9.19
 
 **Status:** failed
 
 
 
-**Error:** `insufficient balance for USD (requested: 70296.49, available: 0)`
+**Error:** `insufficient buying power`
