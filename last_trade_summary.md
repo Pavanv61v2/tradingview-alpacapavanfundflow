@@ -2,28 +2,26 @@
 
 
 
-**Time:** 2026-02-05T21:01:35.665957
+**Time:** 2026-02-09T00:00:36.209651
 
-**Symbol:** NIO
+**Symbol:** BTC/USD
 
 **Action:** buy
 
 **Order Type:** limit
 
-**Time in Force:** day
-
-**Extended Hours:** True
+**Time in Force:** gtc
 
 **Allow Short:** False
 
 **Fractional Requested:** False
 
-**Qty:** 107.0
+**Qty:** 1.0
 
-**Limit Price:** 4.71
+**Limit Price:** 70296.49
 
 **Status:** failed
 
 
 
-**Error:** `insufficient buying power`
+**Error:** `insufficient balance for USD (requested: 70296.49, available: 0)`

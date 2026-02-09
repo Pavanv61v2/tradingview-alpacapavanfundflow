@@ -1,15 +1,15 @@
 {
-  "timestamp": "2026-02-05T21:01:35.665957",
-  "symbol": "NIO",
+  "timestamp": "2026-02-09T00:00:36.209651",
+  "symbol": "BTC/USD",
   "action": "buy",
-  "qty": 107.0,
+  "qty": 1.0,
   "notional": null,
-  "limitPrice": 4.71,
+  "limitPrice": 70296.49,
   "orderType": "limit",
-  "timeInForce": "day",
-  "extendedHours": true,
+  "timeInForce": "gtc",
+  "extendedHours": null,
   "allowShort": false,
   "fractionalRequested": false,
   "status": "failed",
-  "error": "insufficient buying power"
+  "error": "insufficient balance for USD (requested: 70296.49, available: 0)"
 }

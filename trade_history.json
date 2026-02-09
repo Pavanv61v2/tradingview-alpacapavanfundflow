@@ -1019,5 +1019,20 @@
     "fractionalRequested": false,
     "status": "failed",
     "error": "insufficient buying power"
+  },
+  {
+    "timestamp": "2026-02-09T00:00:36.209651",
+    "symbol": "BTC/USD",
+    "action": "buy",
+    "qty": 1.0,
+    "notional": null,
+    "limitPrice": 70296.49,
+    "orderType": "limit",
+    "timeInForce": "gtc",
+    "extendedHours": null,
+    "allowShort": false,
+    "fractionalRequested": false,
+    "status": "failed",
+    "error": "insufficient balance for USD (requested: 70296.49, available: 0)"
   }
 ]
