@@ -2,28 +2,26 @@
 
 
 
-**Time:** 2026-02-09T21:14:32.711385
+**Time:** 2026-02-10T00:00:37.954295
 
-**Symbol:** QS
+**Symbol:** SOL/USD
 
 **Action:** buy
 
 **Order Type:** limit
 
-**Time in Force:** day
-
-**Extended Hours:** True
+**Time in Force:** gtc
 
 **Allow Short:** False
 
 **Fractional Requested:** False
 
-**Qty:** 55.0
+**Qty:** 6.0
 
-**Limit Price:** 9.19
+**Limit Price:** 86.706
 
 **Status:** failed
 
 
 
-**Error:** `insufficient buying power`
+**Error:** `insufficient balance for USD (requested: 520.24, available: 0)`

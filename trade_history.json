@@ -1049,5 +1049,20 @@
     "fractionalRequested": false,
     "status": "failed",
     "error": "insufficient buying power"
+  },
+  {
+    "timestamp": "2026-02-10T00:00:37.954295",
+    "symbol": "SOL/USD",
+    "action": "buy",
+    "qty": 6.0,
+    "notional": null,
+    "limitPrice": 86.706,
+    "orderType": "limit",
+    "timeInForce": "gtc",
+    "extendedHours": null,
+    "allowShort": false,
+    "fractionalRequested": false,
+    "status": "failed",
+    "error": "insufficient balance for USD (requested: 520.24, available: 0)"
   }
 ]

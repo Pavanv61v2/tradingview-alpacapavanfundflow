@@ -1,15 +1,15 @@
 {
-  "timestamp": "2026-02-09T21:14:32.711385",
-  "symbol": "QS",
+  "timestamp": "2026-02-10T00:00:37.954295",
+  "symbol": "SOL/USD",
   "action": "buy",
-  "qty": 55.0,
+  "qty": 6.0,
   "notional": null,
-  "limitPrice": 9.19,
+  "limitPrice": 86.706,
   "orderType": "limit",
-  "timeInForce": "day",
-  "extendedHours": true,
+  "timeInForce": "gtc",
+  "extendedHours": null,
   "allowShort": false,
   "fractionalRequested": false,
   "status": "failed",
-  "error": "insufficient buying power"
+  "error": "insufficient balance for USD (requested: 520.24, available: 0)"
 }
