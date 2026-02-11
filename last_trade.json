@@ -1,15 +1,15 @@
 {
-  "timestamp": "2026-02-10T00:00:37.954295",
-  "symbol": "SOL/USD",
+  "timestamp": "2026-02-11T21:01:32.061544",
+  "symbol": "PANW",
   "action": "buy",
-  "qty": 6.0,
+  "qty": 4.0,
   "notional": null,
-  "limitPrice": 86.706,
+  "limitPrice": 165.25,
   "orderType": "limit",
-  "timeInForce": "gtc",
-  "extendedHours": null,
+  "timeInForce": "day",
+  "extendedHours": true,
   "allowShort": false,
   "fractionalRequested": false,
   "status": "failed",
-  "error": "insufficient balance for USD (requested: 520.24, available: 0)"
+  "error": "insufficient buying power"
 }

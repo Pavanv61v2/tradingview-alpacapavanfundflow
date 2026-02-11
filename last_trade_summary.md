@@ -2,26 +2,28 @@
 
 
 
-**Time:** 2026-02-10T00:00:37.954295
+**Time:** 2026-02-11T21:01:32.061544
 
-**Symbol:** SOL/USD
+**Symbol:** PANW
 
 **Action:** buy
 
 **Order Type:** limit
 
-**Time in Force:** gtc
+**Time in Force:** day
+
+**Extended Hours:** True
 
 **Allow Short:** False
 
 **Fractional Requested:** False
 
-**Qty:** 6.0
+**Qty:** 4.0
 
-**Limit Price:** 86.706
+**Limit Price:** 165.25
 
 **Status:** failed
 
 
 
-**Error:** `insufficient balance for USD (requested: 520.24, available: 0)`
+**Error:** `insufficient buying power`

@@ -1064,5 +1064,20 @@
     "fractionalRequested": false,
     "status": "failed",
     "error": "insufficient balance for USD (requested: 520.24, available: 0)"
+  },
+  {
+    "timestamp": "2026-02-11T21:01:32.061544",
+    "symbol": "PANW",
+    "action": "buy",
+    "qty": 4.0,
+    "notional": null,
+    "limitPrice": 165.25,
+    "orderType": "limit",
+    "timeInForce": "day",
+    "extendedHours": true,
+    "allowShort": false,
+    "fractionalRequested": false,
+    "status": "failed",
+    "error": "insufficient buying power"
   }
 ]
