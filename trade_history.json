@@ -1079,5 +1079,20 @@
     "fractionalRequested": false,
     "status": "failed",
     "error": "insufficient buying power"
+  },
+  {
+    "timestamp": "2026-02-13T21:01:28.428442",
+    "symbol": "SNOW",
+    "action": "buy",
+    "qty": 3.0,
+    "notional": null,
+    "limitPrice": 182.31,
+    "orderType": "limit",
+    "timeInForce": "day",
+    "extendedHours": true,
+    "allowShort": false,
+    "fractionalRequested": false,
+    "status": "failed",
+    "error": "insufficient buying power"
   }
 ]

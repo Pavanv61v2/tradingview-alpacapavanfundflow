@@ -2,9 +2,9 @@
 
 
 
-**Time:** 2026-02-11T21:01:32.061544
+**Time:** 2026-02-13T21:01:28.428442
 
-**Symbol:** PANW
+**Symbol:** SNOW
 
 **Action:** buy
 
@@ -18,9 +18,9 @@
 
 **Fractional Requested:** False
 
-**Qty:** 4.0
+**Qty:** 3.0
 
-**Limit Price:** 165.25
+**Limit Price:** 182.31
 
 **Status:** failed
 
