@@ -2,9 +2,9 @@
 
 
 
-**Time:** 2026-02-13T21:01:28.428442
+**Time:** 2026-02-18T21:01:32.650115
 
-**Symbol:** SNOW
+**Symbol:** GRAB
 
 **Action:** buy
 
@@ -18,9 +18,9 @@
 
 **Fractional Requested:** False
 
-**Qty:** 3.0
+**Qty:** 113.0
 
-**Limit Price:** 182.31
+**Limit Price:** 4.46
 
 **Status:** failed
 
