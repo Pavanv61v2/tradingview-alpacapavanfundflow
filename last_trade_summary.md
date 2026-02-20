@@ -2,9 +2,9 @@
 
 
 
-**Time:** 2026-02-18T21:01:32.650115
+**Time:** 2026-02-20T21:01:41.884776
 
-**Symbol:** GRAB
+**Symbol:** NFLX
 
 **Action:** buy
 
@@ -18,9 +18,9 @@
 
 **Fractional Requested:** False
 
-**Qty:** 113.0
+**Qty:** 7.0
 
-**Limit Price:** 4.46
+**Limit Price:** 78.69
 
 **Status:** failed
 

@@ -1109,5 +1109,20 @@
     "fractionalRequested": false,
     "status": "failed",
     "error": "insufficient buying power"
+  },
+  {
+    "timestamp": "2026-02-20T21:01:41.884776",
+    "symbol": "NFLX",
+    "action": "buy",
+    "qty": 7.0,
+    "notional": null,
+    "limitPrice": 78.69,
+    "orderType": "limit",
+    "timeInForce": "day",
+    "extendedHours": true,
+    "allowShort": false,
+    "fractionalRequested": false,
+    "status": "failed",
+    "error": "insufficient buying power"
   }
 ]
