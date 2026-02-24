@@ -1124,5 +1124,20 @@
     "fractionalRequested": false,
     "status": "failed",
     "error": "insufficient buying power"
+  },
+  {
+    "timestamp": "2026-02-24T21:01:28.921051",
+    "symbol": "OPEN",
+    "action": "buy",
+    "qty": 98.0,
+    "notional": null,
+    "limitPrice": 5.11,
+    "orderType": "limit",
+    "timeInForce": "day",
+    "extendedHours": true,
+    "allowShort": false,
+    "fractionalRequested": false,
+    "status": "failed",
+    "error": "insufficient buying power"
   }
 ]

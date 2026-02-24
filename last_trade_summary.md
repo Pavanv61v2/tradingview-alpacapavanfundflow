@@ -2,9 +2,9 @@
 
 
 
-**Time:** 2026-02-20T21:01:41.884776
+**Time:** 2026-02-24T21:01:28.921051
 
-**Symbol:** NFLX
+**Symbol:** OPEN
 
 **Action:** buy
 
@@ -18,9 +18,9 @@
 
 **Fractional Requested:** False
 
-**Qty:** 7.0
+**Qty:** 98.0
 
-**Limit Price:** 78.69
+**Limit Price:** 5.11
 
 **Status:** failed
 
