@@ -1139,5 +1139,20 @@
     "fractionalRequested": false,
     "status": "failed",
     "error": "insufficient buying power"
+  },
+  {
+    "timestamp": "2026-02-26T21:01:30.384716",
+    "symbol": "IONQ",
+    "action": "buy",
+    "qty": 13.0,
+    "notional": null,
+    "limitPrice": 40.74,
+    "orderType": "limit",
+    "timeInForce": "day",
+    "extendedHours": true,
+    "allowShort": false,
+    "fractionalRequested": false,
+    "status": "failed",
+    "error": "insufficient buying power"
   }
 ]

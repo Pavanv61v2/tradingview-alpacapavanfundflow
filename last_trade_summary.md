@@ -2,9 +2,9 @@
 
 
 
-**Time:** 2026-02-24T21:01:28.921051
+**Time:** 2026-02-26T21:01:30.384716
 
-**Symbol:** OPEN
+**Symbol:** IONQ
 
 **Action:** buy
 
@@ -18,9 +18,9 @@
 
 **Fractional Requested:** False
 
-**Qty:** 98.0
+**Qty:** 13.0
 
-**Limit Price:** 5.11
+**Limit Price:** 40.74
 
 **Status:** failed
 
