@@ -1154,5 +1154,20 @@
     "fractionalRequested": false,
     "status": "failed",
     "error": "insufficient buying power"
+  },
+  {
+    "timestamp": "2026-03-02T21:01:36.268867",
+    "symbol": "OSCR",
+    "action": "buy",
+    "qty": 36.0,
+    "notional": null,
+    "limitPrice": 13.98,
+    "orderType": "limit",
+    "timeInForce": "day",
+    "extendedHours": true,
+    "allowShort": false,
+    "fractionalRequested": false,
+    "status": "failed",
+    "error": "insufficient buying power"
   }
 ]

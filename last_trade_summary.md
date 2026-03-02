@@ -2,9 +2,9 @@
 
 
 
-**Time:** 2026-02-26T21:01:30.384716
+**Time:** 2026-03-02T21:01:36.268867
 
-**Symbol:** IONQ
+**Symbol:** OSCR
 
 **Action:** buy
 
@@ -18,9 +18,9 @@
 
 **Fractional Requested:** False
 
-**Qty:** 13.0
+**Qty:** 36.0
 
-**Limit Price:** 40.74
+**Limit Price:** 13.98
 
 **Status:** failed
 
