@@ -2,9 +2,9 @@
 
 
 
-**Time:** 2026-03-02T21:01:36.268867
+**Time:** 2026-03-04T21:01:37.169715
 
-**Symbol:** OSCR
+**Symbol:** CLOV
 
 **Action:** buy
 
@@ -18,9 +18,9 @@
 
 **Fractional Requested:** False
 
-**Qty:** 36.0
+**Qty:** 231.0
 
-**Limit Price:** 13.98
+**Limit Price:** 2.17
 
 **Status:** failed
 
