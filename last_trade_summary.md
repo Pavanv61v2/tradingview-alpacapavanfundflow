@@ -2,28 +2,26 @@
 
 
 
-**Time:** 2026-03-04T21:01:37.169715
+**Time:** 2026-03-06T00:00:37.224764
 
-**Symbol:** CLOV
+**Symbol:** SOL/USD
 
 **Action:** buy
 
 **Order Type:** limit
 
-**Time in Force:** day
-
-**Extended Hours:** True
+**Time in Force:** gtc
 
 **Allow Short:** False
 
 **Fractional Requested:** False
 
-**Qty:** 231.0
+**Qty:** 6.0
 
-**Limit Price:** 2.17
+**Limit Price:** 88.782
 
 **Status:** failed
 
 
 
-**Error:** `insufficient buying power`
+**Error:** `insufficient balance for USD (requested: 532.69, available: 0)`
