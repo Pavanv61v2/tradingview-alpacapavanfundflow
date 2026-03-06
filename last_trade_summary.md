@@ -2,26 +2,28 @@
 
 
 
-**Time:** 2026-03-06T00:00:37.224764
+**Time:** 2026-03-06T21:01:34.048417
 
-**Symbol:** SOL/USD
+**Symbol:** PATH
 
 **Action:** buy
 
 **Order Type:** limit
 
-**Time in Force:** gtc
+**Time in Force:** day
+
+**Extended Hours:** True
 
 **Allow Short:** False
 
 **Fractional Requested:** False
 
-**Qty:** 6.0
+**Qty:** 43.0
 
-**Limit Price:** 88.782
+**Limit Price:** 11.85
 
 **Status:** failed
 
 
 
-**Error:** `insufficient balance for USD (requested: 532.69, available: 0)`
+**Error:** `insufficient buying power`
