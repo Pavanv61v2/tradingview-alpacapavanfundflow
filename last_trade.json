@@ -1,15 +1,15 @@
 {
-  "timestamp": "2026-03-06T21:01:34.048417",
-  "symbol": "PATH",
+  "timestamp": "2026-03-12T00:00:40.646309",
+  "symbol": "SUI/USD",
   "action": "buy",
-  "qty": 43.0,
+  "qty": 511.0,
   "notional": null,
-  "limitPrice": 11.85,
+  "limitPrice": 0.9785,
   "orderType": "limit",
-  "timeInForce": "day",
-  "extendedHours": true,
+  "timeInForce": "gtc",
+  "extendedHours": null,
   "allowShort": false,
   "fractionalRequested": false,
   "status": "failed",
-  "error": "insufficient buying power"
+  "error": "asset \"SUI/USD\" not found"
 }

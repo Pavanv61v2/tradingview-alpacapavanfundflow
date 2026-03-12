@@ -1214,5 +1214,20 @@
     "fractionalRequested": false,
     "status": "failed",
     "error": "insufficient buying power"
+  },
+  {
+    "timestamp": "2026-03-12T00:00:40.646309",
+    "symbol": "SUI/USD",
+    "action": "buy",
+    "qty": 511.0,
+    "notional": null,
+    "limitPrice": 0.9785,
+    "orderType": "limit",
+    "timeInForce": "gtc",
+    "extendedHours": null,
+    "allowShort": false,
+    "fractionalRequested": false,
+    "status": "failed",
+    "error": "asset \"SUI/USD\" not found"
   }
 ]
