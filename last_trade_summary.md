@@ -2,26 +2,28 @@
 
 
 
-**Time:** 2026-03-12T00:00:40.646309
+**Time:** 2026-03-13T16:46:33.741884
 
-**Symbol:** SUI/USD
+**Symbol:** UNIBAP
 
 **Action:** buy
 
 **Order Type:** limit
 
-**Time in Force:** gtc
+**Time in Force:** day
+
+**Extended Hours:** True
 
 **Allow Short:** False
 
 **Fractional Requested:** False
 
-**Qty:** 511.0
+**Qty:** 89.0
 
-**Limit Price:** 0.9785
+**Limit Price:** 5.68
 
 **Status:** failed
 
 
 
-**Error:** `asset "SUI/USD" not found`
+**Error:** `asset "UNIBAP" not found`
