@@ -1244,5 +1244,20 @@
     "fractionalRequested": false,
     "status": "failed",
     "error": "asset \"UNIBAP\" not found"
+  },
+  {
+    "timestamp": "2026-03-14T00:00:33.313874",
+    "symbol": "ETH/USD",
+    "action": "buy",
+    "qty": 1.0,
+    "notional": null,
+    "limitPrice": 2092.7,
+    "orderType": "limit",
+    "timeInForce": "gtc",
+    "extendedHours": null,
+    "allowShort": false,
+    "fractionalRequested": false,
+    "status": "failed",
+    "error": "insufficient balance for USD (requested: 2092.7, available: 0)"
   }
 ]
