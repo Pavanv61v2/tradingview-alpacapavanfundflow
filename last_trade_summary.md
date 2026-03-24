@@ -2,26 +2,28 @@
 
 
 
-**Time:** 2026-03-14T00:00:33.313874
+**Time:** 2026-03-24T20:01:33.522310
 
-**Symbol:** ETH/USD
+**Symbol:** DLO
 
 **Action:** buy
 
 **Order Type:** limit
 
-**Time in Force:** gtc
+**Time in Force:** day
+
+**Extended Hours:** True
 
 **Allow Short:** False
 
 **Fractional Requested:** False
 
-**Qty:** 1.0
+**Qty:** 39.0
 
-**Limit Price:** 2092.7
+**Limit Price:** 12.93
 
 **Status:** failed
 
 
 
-**Error:** `insufficient balance for USD (requested: 2092.7, available: 0)`
+**Error:** `insufficient buying power`
