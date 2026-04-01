@@ -2,9 +2,9 @@
 
 
 
-**Time:** 2026-03-24T20:01:33.522310
+**Time:** 2026-04-01T20:01:34.237194
 
-**Symbol:** DLO
+**Symbol:** MBLY
 
 **Action:** buy
 
@@ -18,9 +18,9 @@
 
 **Fractional Requested:** False
 
-**Qty:** 39.0
+**Qty:** 68.0
 
-**Limit Price:** 12.93
+**Limit Price:** 7.37
 
 **Status:** failed
 

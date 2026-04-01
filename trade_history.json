@@ -1274,5 +1274,20 @@
     "fractionalRequested": false,
     "status": "failed",
     "error": "insufficient buying power"
+  },
+  {
+    "timestamp": "2026-04-01T20:01:34.237194",
+    "symbol": "MBLY",
+    "action": "buy",
+    "qty": 68.0,
+    "notional": null,
+    "limitPrice": 7.37,
+    "orderType": "limit",
+    "timeInForce": "day",
+    "extendedHours": true,
+    "allowShort": false,
+    "fractionalRequested": false,
+    "status": "failed",
+    "error": "insufficient buying power"
   }
 ]
