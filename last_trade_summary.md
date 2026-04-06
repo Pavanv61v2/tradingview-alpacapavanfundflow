@@ -2,9 +2,9 @@
 
 
 
-**Time:** 2026-04-01T20:01:34.237194
+**Time:** 2026-04-06T20:01:30.953208
 
-**Symbol:** MBLY
+**Symbol:** TSLA
 
 **Action:** buy
 
@@ -18,9 +18,9 @@
 
 **Fractional Requested:** False
 
-**Qty:** 68.0
+**Qty:** 1.0
 
-**Limit Price:** 7.37
+**Limit Price:** 352.77
 
 **Status:** failed
 

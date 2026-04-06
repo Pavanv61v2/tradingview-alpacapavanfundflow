@@ -1289,5 +1289,20 @@
     "fractionalRequested": false,
     "status": "failed",
     "error": "insufficient buying power"
+  },
+  {
+    "timestamp": "2026-04-06T20:01:30.953208",
+    "symbol": "TSLA",
+    "action": "buy",
+    "qty": 1.0,
+    "notional": null,
+    "limitPrice": 352.77,
+    "orderType": "limit",
+    "timeInForce": "day",
+    "extendedHours": true,
+    "allowShort": false,
+    "fractionalRequested": false,
+    "status": "failed",
+    "error": "insufficient buying power"
   }
 ]
