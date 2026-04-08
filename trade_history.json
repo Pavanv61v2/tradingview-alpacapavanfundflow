@@ -1304,5 +1304,20 @@
     "fractionalRequested": false,
     "status": "failed",
     "error": "insufficient buying power"
+  },
+  {
+    "timestamp": "2026-04-08T20:01:28.409344",
+    "symbol": "HOOD",
+    "action": "buy",
+    "qty": 7.0,
+    "notional": null,
+    "limitPrice": 71.82,
+    "orderType": "limit",
+    "timeInForce": "day",
+    "extendedHours": true,
+    "allowShort": false,
+    "fractionalRequested": false,
+    "status": "failed",
+    "error": "insufficient buying power"
   }
 ]

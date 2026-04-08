@@ -2,9 +2,9 @@
 
 
 
-**Time:** 2026-04-06T20:01:30.953208
+**Time:** 2026-04-08T20:01:28.409344
 
-**Symbol:** TSLA
+**Symbol:** HOOD
 
 **Action:** buy
 
@@ -18,9 +18,9 @@
 
 **Fractional Requested:** False
 
-**Qty:** 1.0
+**Qty:** 7.0
 
-**Limit Price:** 352.77
+**Limit Price:** 71.82
 
 **Status:** failed
 
