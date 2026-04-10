@@ -1319,5 +1319,20 @@
     "fractionalRequested": false,
     "status": "failed",
     "error": "insufficient buying power"
+  },
+  {
+    "timestamp": "2026-04-10T20:01:34.213515",
+    "symbol": "GRAB",
+    "action": "buy",
+    "qty": 136.0,
+    "notional": null,
+    "limitPrice": 3.69,
+    "orderType": "limit",
+    "timeInForce": "day",
+    "extendedHours": true,
+    "allowShort": false,
+    "fractionalRequested": false,
+    "status": "failed",
+    "error": "insufficient buying power"
   }
 ]

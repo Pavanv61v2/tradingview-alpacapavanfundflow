@@ -2,9 +2,9 @@
 
 
 
-**Time:** 2026-04-08T20:01:28.409344
+**Time:** 2026-04-10T20:01:34.213515
 
-**Symbol:** HOOD
+**Symbol:** GRAB
 
 **Action:** buy
 
@@ -18,9 +18,9 @@
 
 **Fractional Requested:** False
 
-**Qty:** 7.0
+**Qty:** 136.0
 
-**Limit Price:** 71.82
+**Limit Price:** 3.69
 
 **Status:** failed
 
