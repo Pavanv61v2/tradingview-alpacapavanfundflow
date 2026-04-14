@@ -1334,5 +1334,20 @@
     "fractionalRequested": false,
     "status": "failed",
     "error": "insufficient buying power"
+  },
+  {
+    "timestamp": "2026-04-14T20:01:30.150358",
+    "symbol": "ADUR",
+    "action": "buy",
+    "qty": 46.0,
+    "notional": null,
+    "limitPrice": 11.1,
+    "orderType": "limit",
+    "timeInForce": "day",
+    "extendedHours": true,
+    "allowShort": false,
+    "fractionalRequested": false,
+    "status": "failed",
+    "error": "insufficient buying power"
   }
 ]

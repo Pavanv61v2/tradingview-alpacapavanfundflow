@@ -2,9 +2,9 @@
 
 
 
-**Time:** 2026-04-10T20:01:34.213515
+**Time:** 2026-04-14T20:01:30.150358
 
-**Symbol:** GRAB
+**Symbol:** ADUR
 
 **Action:** buy
 
@@ -18,9 +18,9 @@
 
 **Fractional Requested:** False
 
-**Qty:** 136.0
+**Qty:** 46.0
 
-**Limit Price:** 3.69
+**Limit Price:** 11.1
 
 **Status:** failed
 
