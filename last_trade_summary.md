@@ -2,9 +2,9 @@
 
 
 
-**Time:** 2026-04-14T20:01:30.150358
+**Time:** 2026-04-16T20:01:30.315328
 
-**Symbol:** ADUR
+**Symbol:** SNOW
 
 **Action:** buy
 
@@ -18,9 +18,9 @@
 
 **Fractional Requested:** False
 
-**Qty:** 46.0
+**Qty:** 4.0
 
-**Limit Price:** 11.1
+**Limit Price:** 143.54
 
 **Status:** failed
 
